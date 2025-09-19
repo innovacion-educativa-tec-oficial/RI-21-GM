@@ -6,7 +6,6 @@
     <layout name="npxnabnsnfns10110000101" font="Lato" controllayout="npxnabnsnfns10110000101" colorscheme="npnxnanbnsnfns10110000101" string_table="npnxnanbnsnfns10110000101" />
     <layout name="npnxnanbnsnfns10110000101" font="Lato" controllayout="npnxnanbnsnfns10110000101" colorscheme="npnxnanbnsnfns10110000101" string_table="npnxnanbnsnfns10110000101" />
     <layout name="pxabnsnfns10110000100" font="Lato" controllayout="pxabnsnfns10110000100" colorscheme="npnxnanbnsnfns10110000101" string_table="npnxnanbnsnfns10110000101" />
-    <layout name="npnxnanbnsnfns00010000101" font="Lato" controllayout="npnxnanbnsnfns00010000101" colorscheme="npnxnanbnsnfns10110000101" string_table="npnxnanbnsnfns10110000101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -224,31 +223,6 @@
         </controls>
       </control>
       <control name="close_btn" enabled="false" />
-    </control_layout>
-    <control_layout name="npnxnanbnsnfns00010000101">
-      <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="false" />
-      <control name="replay" enabled="false" />
-      <control name="pauseplay" enabled="true" />
-      <control name="logo" enabled="false" />
-      <control name="previous" enabled="false" />
-      <control name="next" enabled="false" />
-      <control name="swipeleft" enabled="false" />
-      <control name="swiperight" enabled="false" />
-      <control name="fullScreenToggle" enabled="false" />
-      <control name="playbackSpeedControl" enabled="false" />
-      <control name="submit" enabled="false" />
-      <control name="finish" enabled="false" />
-      <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
-      <control name="outline" enabled="false">
-        <controls>
-          <control name="search" enabled="false" />
-        </controls>
-      </control>
-      <control name="close_btn" enabled="true" />
     </control_layout>
   </control_layouts>
   <colorschemes>
@@ -1671,6 +1645,14 @@
             <slidelink slideid="_player.5pkzKEL3bfk.6NQJW3iyrLP" displaytext="pregunta-3.1" expand="false" type="slide" />
             <slidelink slideid="_player.5pkzKEL3bfk.5X8nLZQI9Yi" displaytext="pregunta-4.1" expand="false" type="slide" />
             <slidelink slideid="_player.5pkzKEL3bfk.6QUJsJ3j11t" displaytext="pregunta-8.1" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5Yc16FOtqf1" displaytext="Final" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5Yc16FOtqf1.6SupHO45RCk" displaytext="excelente" expand="false" type="slide" />
+            <slidelink slideid="_player.5Yc16FOtqf1.6cQoh8nkkXk" displaytext="buen-criterio" expand="false" type="slide" />
+            <slidelink slideid="_player.5Yc16FOtqf1.6myb5IWQhbl" displaytext="basico" expand="false" type="slide" />
+            <slidelink slideid="_player.5Yc16FOtqf1.5jgU19LXuVD" displaytext="repaso" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
